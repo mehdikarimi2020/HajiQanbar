@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">حاجی قنبر</string>
+    <string name="navigation_drawer_open">خانه</string>
+    <string name="navigation_drawer_close">خروج</string>
+    <string name="nav_header_title">خوش آمدید</string>
+    <string name="nav_header_subtitle">برنامه نویس:محمد مهدی کریمی</string>
+    <string name="nav_header_desc">حاجی قنبر</string>
+    <string name="action_settings">تنظیمات</string>
+
+    <string name="menu_home">خانه</string>
+    <string name="menu_gallery">گالری</string>
+    <string name="menu_slideshow">درباره من</string>
+    <string name="call_hajiQanbar"> تماس با حاجی قنبر </string>
+
+</resources>
